@@ -72,9 +72,10 @@ Este projeto utiliza inteligência artificial para resumir textos longos de form
 Sinta-se à vontade para abrir *issues* e *pull requests*.
 
 ## Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE.md para detalhes.
+Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE.md para detalhes.    
 
-### Exemplos e Insigths
+
+## Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
